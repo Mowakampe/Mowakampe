@@ -16,7 +16,7 @@ I'm focused on continous learning, exploring new techniques in data analytics, a
 1. Call Center Data Analysis: Performed in-depth analysis on a call center dataset to optimize call handling and improve customer satisfaction.
 2. Financial Customer Complaints Analysis: Analyzed a dataset to identify key issues faced by customers in the financial industry, providing
 recommendations for service improvement.
-3. Sales Perfromance DashBoard: Built an interactive dashboard in Excel to track sales performance, enabling decision-makers to identify trends and growth opportunities.
+3. Sales Performance DashBoard: Built an interactive dashboard in Excel to track sales performance, enabling decision-makers to identify trends and growth opportunities.
 Check them out in the repositories.
 
 💬Let's Connect:
