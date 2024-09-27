@@ -23,9 +23,9 @@ Check them out in the repositories.
 
 💬Let's Connect
 Feel free to reach out to me!
-LinkedIn: Mowaninuola Umarudeen
-Email: mowaninuolau@gmail.com
-Instagram: @datawithmowa
-Facebook:@datawithmowa
+. LinkedIn: Mowaninuola Umarudeen
+. Email: mowaninuolau@gmail.com
+. Instagram: @datawithmowa
+. Facebook:@datawithmowa
 
 
