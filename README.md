@@ -12,7 +12,7 @@ I'm focused on continous learning, exploring new techniques in data analytics, a
 3. Data Visualization: Power BI, Tableau
 4. Other Tools: Git
 
-🎯Projects:
+🎯Some of my notable Projects:
 1. Call Center Data Analysis: Performed in-depth analysis on a call center dataset to optimize call handling and improve customer satisfaction.
 2. Financial Customer Complaints Analysis: Analyzed a dataset to identify key issues faced by customers in the financial industry, providing
 recommendations for service improvement.
