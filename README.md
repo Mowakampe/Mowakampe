@@ -2,7 +2,7 @@
 
 🏸I'm a full time data analyst with a passion for unconvering insights from data and transforming them into actionable solutions.
 My journey in  Data analytics is driven by a curiosity and a desire to help businesses and individuals make informed decisions through data.
-I specialize in providing analytical solutions to complex problems using tools like SQL, Excel, Power BI Tableau.
+I specialize in providing analytical solutions to complex problems using tools like SQL, Excel, Tableau.
 I'm currently working on mastering the art of storytelling through data visualization.
 I'm focused on continous learning, exploring new techniques in data analytics, and building scalable solutions for real-world problems
 
@@ -22,7 +22,6 @@ Check them out in the repositories.
 💬Let's Connect:
 1. LinkedIn: Mowaninuola Umarudeen
 2. Email: mowaninuolau@gmail.com
-3. Instagram: @datawithmowa
-4. Facebook:@datawithmowa
+   
 
 
